@@ -1,0 +1,13 @@
+C:\Users\T78\source\repos\ThucHanhAPI\Buoi1_OpenWeather\NguyenDuyThang_5951071100\NguyenDuyThang_5951071100\bin\Debug\NguyenDuyThang_5951071100.exe.config
+C:\Users\T78\source\repos\ThucHanhAPI\Buoi1_OpenWeather\NguyenDuyThang_5951071100\NguyenDuyThang_5951071100\bin\Debug\NguyenDuyThang_5951071100.exe
+C:\Users\T78\source\repos\ThucHanhAPI\Buoi1_OpenWeather\NguyenDuyThang_5951071100\NguyenDuyThang_5951071100\bin\Debug\NguyenDuyThang_5951071100.pdb
+C:\Users\T78\source\repos\ThucHanhAPI\Buoi1_OpenWeather\NguyenDuyThang_5951071100\NguyenDuyThang_5951071100\bin\Debug\Newtonsoft.Json.dll
+C:\Users\T78\source\repos\ThucHanhAPI\Buoi1_OpenWeather\NguyenDuyThang_5951071100\NguyenDuyThang_5951071100\bin\Debug\Newtonsoft.Json.xml
+C:\Users\T78\source\repos\ThucHanhAPI\Buoi1_OpenWeather\NguyenDuyThang_5951071100\NguyenDuyThang_5951071100\obj\Debug\NguyenDuyThang_5951071100.csprojAssemblyReference.cache
+C:\Users\T78\source\repos\ThucHanhAPI\Buoi1_OpenWeather\NguyenDuyThang_5951071100\NguyenDuyThang_5951071100\obj\Debug\NguyenDuyThang_5951071100.Form1.resources
+C:\Users\T78\source\repos\ThucHanhAPI\Buoi1_OpenWeather\NguyenDuyThang_5951071100\NguyenDuyThang_5951071100\obj\Debug\NguyenDuyThang_5951071100.Properties.Resources.resources
+C:\Users\T78\source\repos\ThucHanhAPI\Buoi1_OpenWeather\NguyenDuyThang_5951071100\NguyenDuyThang_5951071100\obj\Debug\NguyenDuyThang_5951071100.csproj.GenerateResource.cache
+C:\Users\T78\source\repos\ThucHanhAPI\Buoi1_OpenWeather\NguyenDuyThang_5951071100\NguyenDuyThang_5951071100\obj\Debug\NguyenDuyThang_5951071100.csproj.CoreCompileInputs.cache
+C:\Users\T78\source\repos\ThucHanhAPI\Buoi1_OpenWeather\NguyenDuyThang_5951071100\NguyenDuyThang_5951071100\obj\Debug\NguyenDuyThang_5951071100.csproj.CopyComplete
+C:\Users\T78\source\repos\ThucHanhAPI\Buoi1_OpenWeather\NguyenDuyThang_5951071100\NguyenDuyThang_5951071100\obj\Debug\NguyenDuyThang_5951071100.exe
+C:\Users\T78\source\repos\ThucHanhAPI\Buoi1_OpenWeather\NguyenDuyThang_5951071100\NguyenDuyThang_5951071100\obj\Debug\NguyenDuyThang_5951071100.pdb
